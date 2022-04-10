@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "armer-auth-service", "armer-auth-service\armer-auth-service.csproj", "{DAFD15E5-CA55-4635-8161-7833876EF520}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Armer.Auth.Service", "armer-auth-service\Armer.Auth.Service.csproj", "{DAFD15E5-CA55-4635-8161-7833876EF520}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

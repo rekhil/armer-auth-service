@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "armer_auth_service": {
+    "Armer.Auth.Service": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "home",

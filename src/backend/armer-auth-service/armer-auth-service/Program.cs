@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace armer_auth_service
+namespace Armer.Auth.Service
 {
     public class Program
     {

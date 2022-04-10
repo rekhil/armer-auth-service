@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace armer_auth_service.Controllers
+namespace Armer.Auth.Service.Controllers
 {
     [ApiController]
     [Route("[controller]")]
